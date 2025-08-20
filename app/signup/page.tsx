@@ -42,8 +42,6 @@ export default function LoginPage() {
                       type="text"
                       placeholder="Enter your name"
                       className="pl-12 py-2 text-base rounded-xl bg-card bg-opacity-80 border border-primary focus:outline-none focus:ring-2 focus:ring-primary text-white placeholder:text-muted-foreground"
-                      value={name}
-                      onChange={(e) => setName(e.target.value)}
                       required
                     />
                   </div>
