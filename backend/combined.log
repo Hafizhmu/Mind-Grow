@@ -1,0 +1,16 @@
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-08-21T02:36:45.933Z"}
+{"level":"info","message":"Inggest endpoint: http://localhost:3001/api/inngest","timestamp":"2025-08-21T02:36:45.937Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-08-21T02:37:06.197Z"}
+{"level":"info","message":"Inggest endpoint: http://localhost:3001/api/inngest","timestamp":"2025-08-21T02:37:06.200Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-08-21T02:37:28.237Z"}
+{"level":"info","message":"Inggest endpoint: http://localhost:3001/api/inngest","timestamp":"2025-08-21T02:37:28.245Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-08-21T02:38:38.552Z"}
+{"level":"info","message":"Inggest endpoint: http://localhost:3001/api/inngest","timestamp":"2025-08-21T02:38:38.556Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-08-21T02:38:50.358Z"}
+{"level":"info","message":"Inggest endpoint: http://localhost:3001/api/inngest","timestamp":"2025-08-21T02:38:50.362Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-08-21T02:39:30.772Z"}
+{"level":"info","message":"Inggest endpoint: http://localhost:3001/api/inngest","timestamp":"2025-08-21T02:39:30.776Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-08-21T02:44:56.214Z"}
+{"level":"info","message":"Inggest endpoint: http://localhost:3000/api/inngest","timestamp":"2025-08-21T02:44:56.218Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-08-21T02:50:26.692Z"}
+{"level":"info","message":"Inggest endpoint: http://localhost:3001/api/inngest","timestamp":"2025-08-21T02:50:26.695Z"}

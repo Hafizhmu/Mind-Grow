@@ -13,7 +13,7 @@ export default function Header() {
 
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   return (
-    <div className="w-full fixed top-0 z-50 bg-background/95 backdrop-blur">
+    <div className="w-full fixed top-0 z-50 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="absolute inset-0 border-b border-primary/10">
         {/* Header */}
         <header className="relative max-w-6xl mx-auto px-4">
@@ -40,7 +40,7 @@ export default function Header() {
                       className="px-4 py-2 text-sm font-medium text-muted-foreground hover:text-foreground transition-colors relative group"
                     >
                       {item.label}
-                      <span className="absolute bottom-0 left-0 w-full h-0.5 bg-primary scale-x-0 group-hover:scale-x-100 transition-transform-duration-200 origin-left"></span>
+                      <span className="absolute bottom-0 left-0 w-full h-0.5 bg-primary scale-x-0 group-hover:scale-x-100 transition-transform duration-200 origin-left"></span>
                     </Link>
                   );
                 })}
